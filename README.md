@@ -4,10 +4,12 @@
 
 ## Technologies
 The list of technologies used within the project
-* used languages are
+# used languages are
 * php 
 * html
 * sql
 
-### Screenshot
-! C:\Users\hp\Documents\INTERNSHIP\startup1.png
+### Screenshots of webpage
+
+![startupform1](https://user-images.githubusercontent.com/91863575/223386115-99e5e4e1-6e37-4cde-a989-3ff09583643e.png)
+![startupform2](https://user-images.githubusercontent.com/91863575/223386133-3cfad4d1-965a-4656-9c6d-ea2308eecb33.png)
